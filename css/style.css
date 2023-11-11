@@ -1,0 +1,307 @@
+.parentdiv{
+    width: 1450px;
+    height: 1000px;
+    background-color:aquamarine;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px 0px 0px 0px ;
+   
+
+   
+
+    
+}
+
+.updiv{
+    width: 1200px;
+    height: 80px;
+    background-color: brown;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:20px;
+    border-bottom: 2px solid #cec9c9; /* You can customize the color and thickness */
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+
+
+}
+
+
+.doublediv{
+    width:1100px ;
+    height: 800px;
+    background-color: violet;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-evenly;
+   
+
+   
+
+
+
+}
+
+
+.leftdiv{
+    width: 380px;
+    height: 400px ;
+    background-color: white;
+    margin-top: 70px;
+
+}
+
+
+.rightdiv{
+    width: 380px ;
+    height:390px ;
+    background-color: slateblue;
+    margin-top: 120px;
+
+} 
+.sneakers{
+    width: 200px;
+    height: 70px;
+    background-color: pink;
+    padding: 20px 0px 0px 10px;
+    margin-left: 30px;
+}
+.sneakers p{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
+    font-weight: bold;
+
+}
+
+
+.words{
+    width: 600px;
+    height: 60px;
+    background-color:blue ;
+    padding: 30px 0px 0px 0px;
+   
+}
+
+.words p{
+    color: gray;
+    word-spacing: 20px;
+ 
+}
+
+
+.charts{
+    width: 200px;
+    height: 70px;
+    background-color:rgb(34, 178, 106);
+    margin-right: 20px;
+    padding: 20px 0px 0px 0px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.bask{
+    width: 80px;
+    height: 70px;
+    background-color:rgb(178, 34, 123)
+    
+
+    
+
+}
+
+.bask img{
+    width: 50px;
+    height: 50px;
+    /* background-image: url('/home/sandrabest/source/swe-class/html/newecommerce/image/icon-cart.svg'); */
+    background-image: url('/image/icon-cart.svg');
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+}
+
+
+.face {
+    width: 80px;
+    height: 70px;
+    background-color: rgb(178, 144, 34);
+}
+
+.face img {
+    width: 50px;
+    height: 50px;
+    background-image: url('/image/image-avatar.png');
+}
+
+.singlediv{
+    width: 380px;
+    height: 350px;
+    background-color:dimgray;
+    border-radius: 10px;
+
+}
+ 
+.singlediv img{
+    width: 380px;
+    height: 350px;
+    background-image: url('/image/image-product-1.jpg');
+    border-radius: 10px;
+
+}
+
+.quaddiv{
+    width: 380px;
+    height: 70px;
+    background-color:white;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    
+
+}
+
+.shoe1{
+    width: 70px;
+    height: 65px;
+    background-color: red;
+    border-radius: 10px;
+}
+
+.shoe1 img{
+    width: 70px;
+    height: 65px;
+    background-image: url('/image/image-product-1-thumbnail.jpg');
+    border-radius: 10px;
+
+}
+
+.shoe2{
+    width: 70px;
+    height: 65px;
+    background-color: rgb(0, 132, 255);
+    border-radius: 10px;
+}
+
+.shoe2 img{
+    width: 70px;
+    height: 65px;
+    background-image: url('/image/image-product-2-thumbnail.jpg');
+    border-radius: 10px;
+
+}
+
+.shoe3{
+    width: 70px;
+    height: 65px;
+    background-color: rgb(51, 255, 0);
+    border-radius: 10px;
+}
+.shoe3 img{
+    width: 70px;
+    height: 65px;
+    background-image: url('/image/image-product-3-thumbnail.jpg');
+    border-radius: 10px;
+
+}
+.shoe4{
+    width: 70px;
+    height: 65px;
+    background-color: rgb(48, 65, 54);
+    border-radius: 10px;
+}
+.shoe4 img{
+    width: 70px;
+    height: 65px;
+    background-image: url('/image/image-product-4-thumbnail.jpg');
+    border-radius: 10px;
+}
+
+.divone{
+    width: 380;
+    height: 20px;
+    background-color:whitesmoke;
+
+}
+
+.divone p{
+    width: 380;
+    height: 20px;
+    color:orange;
+    font-size: 15px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+
+.divtwo{
+    width: 350px;
+    height: 70px;
+    background-color: white;
+
+
+}
+
+.divtwo p{
+    width: 380;
+    height: 40px;
+    color: black;
+    font-size: 30px;
+    font-weight: bolder;
+
+}
+
+.divthree{
+    width: 350;
+    background-color: white;
+    margin-top: 40px;
+
+}
+
+.divthree p{
+    color:gray;
+    text-align: justify;
+
+}
+.divfour{
+    width: 200px;
+    height: 70px;
+    background-color: forestgreen;
+
+}
+
+.dollar{
+    width:100px ;
+    height: 65px;
+    background-color: aqua;
+    
+
+}
+.dollar p{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+   
+
+}
+.dollar p span {
+    text-decoration:line-through;
+    font-size: 15px;
+    color: gray;
+
+    
+}
+.percentage{
+
+}
+
+.percentage p{
+
+}
